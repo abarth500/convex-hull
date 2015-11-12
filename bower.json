@@ -1,0 +1,24 @@
+{
+  "name": "convex-hull",
+  "description": "Any dimensional convex hull",
+  "main": "ch.js",
+  "authors": [
+    "Mikola Lysenko"
+  ],
+  "license": "MIT",
+  "keywords": [
+    "convex",
+    "hull",
+    "any",
+    "dimension"
+  ],
+  "homepage": "https://github.com/abarth500/convex-hull",
+  "moduleType": [],
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ]
+}
